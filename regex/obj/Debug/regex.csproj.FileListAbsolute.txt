@@ -1,0 +1,15 @@
+C:\Users\Spum\source\repos\regex\regex\bin\Debug\regex.exe.config
+C:\Users\Spum\source\repos\regex\regex\bin\Debug\regex.exe
+C:\Users\Spum\source\repos\regex\regex\bin\Debug\regex.pdb
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex.csprojAssemblyReference.cache
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\MainWindow.g.cs
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\App.g.cs
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex_MarkupCompile.cache
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex_MarkupCompile.lref
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\MainWindow.baml
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex.g.resources
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex.Properties.Resources.resources
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex.csproj.GenerateResource.cache
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex.csproj.CoreCompileInputs.cache
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex.exe
+C:\Users\Spum\source\repos\regex\regex\obj\Debug\regex.pdb
